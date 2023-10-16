@@ -196,3 +196,5 @@ yarg==0.1.9
 yarl @ file:///Users/runner/miniforge3/conda-bld/yarl_1685191803109/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1689374466814/work
 zstandard @ file:///Users/runner/miniforge3/conda-bld/zstandard_1667296188238/work
+
+requests~=2.31.0

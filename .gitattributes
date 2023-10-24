@@ -4,3 +4,4 @@ data/train.csv filter=lfs diff=lfs merge=lfs -text
 data/validation.csv filter=lfs diff=lfs merge=lfs -text
 data/test.csv filter=lfs diff=lfs merge=lfs -text
 models/pre_trained_4.pt filter=lfs diff=lfs merge=lfs -text
+data/internal/data.csv filter=lfs diff=lfs merge=lfs -text

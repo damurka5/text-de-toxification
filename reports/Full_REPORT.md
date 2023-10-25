@@ -20,5 +20,5 @@ The dataset is a subset of the ParaNMT corpus (50M sentence pairs). The filtered
 2. Attempt to fine tune Bert model. You can find it in notebooks/4.0 
 3. Attempt to fine tune t5small model. Succeed. You can find it in notebooks/5.0. I uploaded model checkpoint to Yandex Disk. You can download the model from [Here](https://disk.yandex.com/d/aP_z72Ew8CQs2A)
 
-
+# 
 

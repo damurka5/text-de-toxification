@@ -59,7 +59,9 @@ def get_paraphrases(sentence, prefix="paraphrase: ", n_predictions=5, top_k=120,
             outputs.append(generated_sent)
     return outputs
 
-paraphrases = get_paraphrases("I bought a fucking good pen")
 
-for sent in paraphrases:
-    print(sent)
+if __name__ == '__main__':
+    paraphrases = get_paraphrases("I bought a fucking good pen")
+
+    for sent in paraphrases:
+        print(sent)

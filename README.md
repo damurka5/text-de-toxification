@@ -1,5 +1,6 @@
 # text-de-toxification
-
+Nurtdinov Damir BS20-RO \
+d.nurtdinov@innopolis.university\
 This is an assignment on text detoxification of Practical Machine Learning and Deep Learning course.
 
 # Task Description:

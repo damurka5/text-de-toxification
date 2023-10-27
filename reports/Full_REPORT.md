@@ -20,5 +20,6 @@ The dataset is a subset of the ParaNMT corpus (50M sentence pairs). The filtered
 2. Attempt to fine tune Bert model. You can find it in notebooks/4.0 
 3. Attempt to fine tune t5small model. Succeed. You can find it in notebooks/5.0. I uploaded model checkpoint to Yandex Disk. You can download the model from [Here](https://disk.yandex.com/d/aP_z72Ew8CQs2A)
 
-# 
-
+# Results:
+My final model is t5small fine-tuned. It provides good results even it has been trained on a very small dataset due to local computational resources. On a figure below you can see bar-chart with excluded words after detoxification process.
+![Fig. 2](figures/bar_plot.png "Fig. 2")
